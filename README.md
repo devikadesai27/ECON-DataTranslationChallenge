@@ -26,16 +26,8 @@ Drivers just above the cutoff face stricter penalties, which impacts future beha
 The results suggest that policy enforcement can influence decision-making
 
 Repository Structure
-ECON-DataTranslationChallenge/
-│
-├── .Qmd file/        # Quarto analysis and supporting images
-├── Figures/          # Visualizations used in analysis
-├── R_Script/         # Data processing and modeling scripts
-├── Rendered_doc/     # Final rendered report (docx)
-├── Ppt/              # Presentation slides
-├── .gitignore        # Ignored files configuration
-├── README.md         # Project documentation
-Files Description
+<img width="579" height="231" alt="image" src="https://github.com/user-attachments/assets/0d3d3692-b5db-47e6-bc9f-718b47f75a3b" />
+
 
 Quarto File: Contains full analysis and narrative
 
