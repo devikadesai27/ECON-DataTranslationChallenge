@@ -1,4 +1,6 @@
-# ECON-DataTranslationChallenge
+# ECON-DataTranslationChallenge 
+(The recorded presentation link is included in the rendered Word file below the headline)
+
 DTC- Do harsher punishments for drunk driving reduce the probability of future drunk-driving offenses?
 
 Project Overview
